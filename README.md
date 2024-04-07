@@ -1,6 +1,6 @@
 # hexo-renderer-pandoc_header-link-filter
 
-This project provides a Lua filter for Hexo's Pandoc renderer to add header links to your files.  
+This project provides a Lua filter for [Hexo's Pandoc renderer](https://github.com/hexojs/hexo-renderer-pandoc) to add header links to your files.  
 
 ## Usage
 
